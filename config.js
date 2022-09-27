@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
+global.Owner = ['642737865590']
+global.OwnerNumber = ['642737865590']
+global.ownertag = ['642737865590']
+global.BotName = "alone"
+global.packname = "alone-bot"
+global.author = "By: alone"
+global.OwnerName = "alone"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.SupportGroupLink = "https://chat.whatsapp.com/Ds20mNXs9htI2uXjYEJci7  "
 global.sessionName = "session"
 
 // Prefix //
@@ -24,8 +24,8 @@ global.prefa = ['-']
 
 
 global.location = "bihar, India"
-global.reactmoji = "❤️"
-global.themeemoji = "🍭"
+global.reactmoji = "👻"
+global.themeemoji = "🕵"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.lolhuman = "KaysaS"
